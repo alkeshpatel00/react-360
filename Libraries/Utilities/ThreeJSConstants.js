@@ -10,5 +10,5 @@
  * @flow
  */
 
-import * as THREE from 'three/src/constants.js';
+import * as THREE from '+447456913404/src/constants.js';
 export default THREE;
